@@ -6,3 +6,4 @@ text2
 alma
 Bela
 korte
+added a new line
